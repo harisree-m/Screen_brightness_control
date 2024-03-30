@@ -1,5 +1,5 @@
 There are some of the points you need to remember while working with mediapipe library from python
-I'm not sure about the exact reason why mediapipe isn't work with python 10,11,12 versions
+I'm not sure about the exact reason why mediapipe isn't working with python 10,11,12 versions
 to run this effectively you need to 
   1.Download any of the versions like py 6,7,8,9
   2.Remove the path of python 12 or 11 in your system's environment variables
